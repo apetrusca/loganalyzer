@@ -1,0 +1,6 @@
+[submodule "external/rust"]
+	path = external/rust
+	url = https://github.com/tensorflow/rust.git
+[submodule "external/tensor/rust"]
+	path = external/tensor/rust
+	url = https://github.com/tensorflow/rust.git
