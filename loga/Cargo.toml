@@ -4,3 +4,6 @@ version = "0.1.0"
 authors = ["apetrusca"]
 
 [dependencies]
+tensorflow = "0.10.0"
+
+
